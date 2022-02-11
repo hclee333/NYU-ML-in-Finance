@@ -7,4 +7,5 @@ Portfolio is classified into two types of stocks : Fixed Income (or Value) and E
 Exponential Weighted Returns should be used instead of Equally Weighted Returns to improve performance of Trading Strategy. 
 In reality, more recent price movements have greater effect on current price than price movements in the distant past. 
 (B) discrete_black_scholes : Simulate the Black Scholes Model in Discrete Time and obtain the option premium and option greeks
-(C) Pairs Trading :  uses basic ML (not RL) to set buy and sell levels for individual stocks in a strategy that is common among hedge funds - Pair Trading.  Historic data is available from Yahoo Finance.
+(C) MDP for Option Pricing using Dynamic Approach : Using MDP, simulate Option Pricing and Hedging and compare results to BSM Model
+(D) Pairs Trading :  uses basic ML (not RL) to set buy and sell levels for individual stocks in a strategy that is common among hedge funds - Pair Trading.  Historic data is available from Yahoo Finance.
