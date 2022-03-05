@@ -9,3 +9,4 @@ In reality, more recent price movements have greater effect on current price tha
 (B) discrete_black_scholes : Simulate the Black Scholes Model in Discrete Time and obtain the option premium and option greeks
 (C) MDP for Option Pricing using Dynamic Approach : Using MDP, simulate Option Pricing and Hedging and compare results to BSM Model
 (D) FQI in RL for Pricing a European Option and comparing the results to the DP Approach, BSM model (E) Pairs Trading :  uses basic ML (not RL) to set buy and sell levels for individual stocks in a strategy that is common among hedge funds - Pair Trading.  Historic data is available from Yahoo Finance.
+(F) Inverse Reinforcement Learning, using different technical indicators like Simple MA and Exp MA, finding out through training the IRL model what should be the weights of different indicators in better estimating the future trend of particular stocks.
